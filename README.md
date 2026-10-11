@@ -14,7 +14,7 @@ Most of my time is spent in the embedded world like reverse engineering firmware
 - **Open source hardware projects** that solve real networking and automation problems
 - **Embedded libraries** for making development less painful than it has to be
 - **IoT security research** into the devices we use every day
-- **Tiny Windows utilities** because microslop is too busy with their copilot that nobody likes.
+- **Tiny Windows utilities** because microslop is too busy with their copilot that nobody likes
 ---
 
 ## Support My Work
