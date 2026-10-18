@@ -1,13 +1,13 @@
-# Hey there! I'm Luna ☕✨
+# Hey there! I'm Luna (not my real name of course who would give their real name on internet hellhole. holy opsec.) ☕✨
 **Embedded Developer · IoT Security · Networking Tools · Bug Bounty**
 
-I'm that person who gets way too excited about making tiny computers do cool things I'm talking about things like automating something that definitely didn't need automating or simply tearing things apart because why not it's fun.
+I'm that nerd who gets way too excited about making tiny computers do cool things I'm talking about things like automating something that definitely didn't need automating or simply tearing things apart because why not it's fun.
 
 My desk is a graveyard of ESP32s, fused multimeters, and half-working PCBs. I wouldn't have it any other way.
 
 ---
 
-## What I'm Working On
+## Soooo What Am I Doing?
 
 Most of my time is spent in the embedded world like reverse engineering firmware and creating network tools that actually work. Occasionally I fall down a security rabbit hole that starts with *"I wonder if this device is secure..."* (spoiler: it usually isn't).
 
@@ -17,7 +17,7 @@ Most of my time is spent in the embedded world like reverse engineering firmware
 - **Tiny Windows utilities** because microslop is too busy with their copilot that nobody likes
 ---
 
-## Support My Work
+## Support My Work (if you want, of course.)
 
 Building embedded solutions isn't cheap. Between dev boards, networking gear, and the occasional magic smoke incident, costs add up really fast. If one of my projects saved you hours of debugging or just made you go *"yo ts is solid"* consider [Sponsoring me on GitHub Sponsors](https://github.com/sponsors/lunaa136). 💜
 
